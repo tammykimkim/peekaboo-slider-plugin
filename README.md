@@ -11,21 +11,21 @@ The Peekaboo Slider Plugin is a fun way to show and hide images, text, photos, a
 
 Peekaboo.js builds upon the jQuery UI library, so please be sure to add the following 3 scripts to your index.html page:
 
-```
+```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
 <script src="peekaboo.js"></script>
-
 ```
 **2. Now, add one of the following classes of ".toggle-[direction]" to the HTML element you would like to use as your trigger.  It can be an image, text, a div, or a link. In my example below and in the demo, I added it to the div.**
-```
+
+```css
   ".toggle-up" - the slider goes down and then [UP]  
   ".toggle-right" - the slider goes to the left and then [RIGHT] or
   ".toggle-down" - the slider goes up and then [DOWN] or
   ".toggle-left" - the slider goes right and then [LEFT]
 ```
 **3. Make sure to add a class of ".slider" + ".slider-[direction] to the menu, image, or text block you would like to hide and then slide onto the page.  Again, I used a div, but you can put it on any tag in your html. (See example below).**
-  ```	
+```html	
 ** These classes are required** Everything else is optional.
 
 **<div class="toggle-up">**
@@ -47,7 +47,7 @@ Peekaboo.js builds upon the jQuery UI library, so please be sure to add the foll
   </div>
 ```
 **Here is a glimpse at the JavaScript & jQuery:**
-```
+```javascript
     $(".toggle-up").click(function(e) { 
         e.preventDefault(); 
           $('.slider-up').toggle("slide", option1, duration);
@@ -55,7 +55,7 @@ Peekaboo.js builds upon the jQuery UI library, so please be sure to add the foll
 ```
 
 **Here is what the CSS looks like:**
-```
+```css
 <!-- This is your trigger -->
 .toggle-up { 
   cursor: pointer;
@@ -91,7 +91,7 @@ Peekaboo.js builds upon the jQuery UI library, so please be sure to add the foll
 
 **Further Reading...**
 You will notice that there are some options in the peekaboo.js file:
-```
+```javascript
 // Which direction?
 // The direction reps what happens after it has clicked the second time.
 // For example, on click, the slider goes up, and on the second click, the slider goes "DOWN" = option3.
