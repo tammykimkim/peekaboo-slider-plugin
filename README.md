@@ -2,11 +2,11 @@
 A plugin that slides images, text, & photos onto the web page on click.  Also great for slide in navs.
 The Peekaboo Slider Plugin is a fun way to show and hide images, text, photos, and slider nav bars on your webpage. 
 
-#View the Live Demo here:
+## View the Live Demo here:
 [Peekaboo Slider Demo](http://www.tammykimkim.com/peekaboo)
 
 
-# Getting Started 
+## Getting Started 
 **1. Simply include 'peekaboo.js' in your scripts folder, and link to it in the head of your index.html file.**
 
 Peekaboo.js builds upon the jQuery UI library, so please be sure to add the following 3 scripts to your index.html page:
@@ -87,7 +87,7 @@ Peekaboo.js builds upon the jQuery UI library, so please be sure to add the foll
   color: rgba(199,21,133,1);
 }
 ```
-# That's it!
+## That's it!
 
 **Further Reading...**
 You will notice that there are some options in the peekaboo.js file:
@@ -105,7 +105,7 @@ var option4 = { direction: "left" };
 // Set the time of the animation here:
 var duration = 500;
 ```
-## Image Sources:
+### Image Sources:
 **Github images forked here:**
 
 https://github.com/EmilS/Octocat/blob/master/scrapeImgs.sh
@@ -116,7 +116,7 @@ http://free.clipartof.com/165-Ninja-Avatar-Character-With-Ninja-Stars-And-A-Swor
 
 http://free.clipartof.com/172-Pink-Punk-Rocker-Avatar-Character-With-Green-Spikes-Free-Vector-Clipart-Illustration.png
 
-## Hover animations:
+### Hover animations:
 **Courtesy of Ian Lunn of Hover.css**
 
 https://github.com/IanLunn/Hover
