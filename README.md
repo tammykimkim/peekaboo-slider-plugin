@@ -112,6 +112,10 @@ https://github.com/EmilS/Octocat/blob/master/scrapeImgs.sh
 http://free.clipartof.com/165-Ninja-Avatar-Character-With-Ninja-Stars-And-A-Sword-Free-Vector-Clipart-Illustration.png
 http://free.clipartof.com/172-Pink-Punk-Rocker-Avatar-Character-With-Green-Spikes-Free-Vector-Clipart-Illustration.png
 
+# Hover animations:
+**Courtesy of Ian Lunn of Hover.css**
+https://github.com/IanLunn/Hover
+
 **Please Note**
 This is my first plugin made with JavaScript & jQuery @HackerYou using GitHub, Git, SublimeText3, HTML5, and CSS3.
 
