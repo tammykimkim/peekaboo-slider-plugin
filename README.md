@@ -3,7 +3,8 @@ A plugin that slides images, text, & photos onto the web page on click.  Also gr
 The Peekaboo Slider Plugin is a fun way to show and hide images, text, and slider nav bars on your webpage. 
 
 **View the Live Demo here:**  
-http://www.tammykimkim.com/peekaboo
+[Demo](http://www.tammykimkim.com/peekaboo)
+
 
 # Getting Started 
 **1. Simply include 'peekaboo.js' in your scripts folder, and link to it in the head of your index.html file.**
