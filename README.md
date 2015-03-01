@@ -105,16 +105,20 @@ var option4 = { direction: "left" };
 // Set the time of the animation here:
 var duration = 500;
 ```
-# Image Sources:
+## Image Sources:
 **Github images forked here:**
+
 https://github.com/EmilS/Octocat/blob/master/scrapeImgs.sh
 
 **Free clipart images found here:**
+
 http://free.clipartof.com/165-Ninja-Avatar-Character-With-Ninja-Stars-And-A-Sword-Free-Vector-Clipart-Illustration.png
+
 http://free.clipartof.com/172-Pink-Punk-Rocker-Avatar-Character-With-Green-Spikes-Free-Vector-Clipart-Illustration.png
 
-# Hover animations:
+## Hover animations:
 **Courtesy of Ian Lunn of Hover.css**
+
 https://github.com/IanLunn/Hover
 
 Please feel free to fork, improve, use, and share this plugin.
