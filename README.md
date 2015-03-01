@@ -116,10 +116,5 @@ http://free.clipartof.com/172-Pink-Punk-Rocker-Avatar-Character-With-Green-Spike
 **Courtesy of Ian Lunn of Hover.css**
 https://github.com/IanLunn/Hover
 
-**Please Note**
-This is my first plugin made with JavaScript & jQuery @HackerYou using GitHub, Git, SublimeText3, HTML5, and CSS3.
-
 Please feel free to fork, improve, use, and share this plugin.
-
 Cheers! : )
-
